@@ -1,0 +1,18 @@
+---
+title: "关于我"
+---
+
+# 详细介绍
+我是一名资源利用与植物保护专业的学生，专注于优化施肥对柑橘品质和生态效益影响问题。
+
+
+
+## 联系方式
+- 邮箱：990329184@qq.::: {.columns}
+::: {.column}
+:::
+::: {.column}
+:::
+:::
+<!-- end columns -->
+- GitHub：https://github.com/Jiesun-star/homepage

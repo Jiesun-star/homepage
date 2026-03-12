@@ -1,0 +1,19 @@
+# my-empty-project
+project:
+  type: website
+
+website:
+  title: "我的个人主页"
+  navbar:
+    left:
+      - href: index.qmd
+        text: 主页
+      - href: about.qmd
+        text: 关于我
+  page-footer:
+    left: "2026 孙宜宜"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
