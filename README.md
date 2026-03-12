@@ -1,19 +1,3 @@
-# my-empty-project
-project:
-  type: website
+# 个人主页
 
-website:
-  title: "我的个人主页"
-  navbar:
-    left:
-      - href: index.qmd
-        text: 主页
-      - href: about.qmd
-        text: 关于我
-  page-footer:
-    left: "2026 孙宜宜"
-
-format:
-  html:
-    theme: cosmo
-    css: styles.css
+这是我的个人主页项目。基于 Quarto 构建。
